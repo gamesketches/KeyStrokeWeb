@@ -1,0 +1,6 @@
+div {
+	background-image: url('background.jpg');
+	width: 600px;
+	height:500px;
+	background-repeat:no-repeat;
+}
